@@ -1,0 +1,10 @@
+C:\Users\ASUS\source\repos\ToDoListApp\ToDoListApp\obj\Debug\ToDoListApp.csproj.AssemblyReference.cache
+C:\Users\ASUS\source\repos\ToDoListApp\ToDoListApp\obj\Debug\ToDoListApp.frmToDoList.resources
+C:\Users\ASUS\source\repos\ToDoListApp\ToDoListApp\obj\Debug\ToDoListApp.Properties.Resources.resources
+C:\Users\ASUS\source\repos\ToDoListApp\ToDoListApp\obj\Debug\ToDoListApp.csproj.GenerateResource.cache
+C:\Users\ASUS\source\repos\ToDoListApp\ToDoListApp\obj\Debug\ToDoListApp.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\ToDoListApp\ToDoListApp\bin\Debug\ToDoListApp.exe.config
+C:\Users\ASUS\source\repos\ToDoListApp\ToDoListApp\bin\Debug\ToDoListApp.exe
+C:\Users\ASUS\source\repos\ToDoListApp\ToDoListApp\bin\Debug\ToDoListApp.pdb
+C:\Users\ASUS\source\repos\ToDoListApp\ToDoListApp\obj\Debug\ToDoListApp.exe
+C:\Users\ASUS\source\repos\ToDoListApp\ToDoListApp\obj\Debug\ToDoListApp.pdb
